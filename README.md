@@ -1,6 +1,12 @@
-#Bullcode Standards
+# Bullcode Standards
 
-##Projects
+1. Projects
+    1. Angular
+    1. Ionic
+    1. React
+1. 
+
+## 1. Projects
 
 - Every project must have these commands for running/building
 ```json
@@ -15,7 +21,7 @@
 ... 
 ```
 
-###Angular
+### 1.1 Angular
 ```json
 ...
   "scripts": {
@@ -28,7 +34,7 @@
 ... 
 ```
 
-###Ionic
+### 1.2 Ionic
 ```json
 ...
   "scripts": {
@@ -43,4 +49,4 @@
 ... 
 ```
 
-###React
+### 1.3 React
